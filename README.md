@@ -1,2 +1,2 @@
 # sustainability-methods-analysis
-Text mining analysis of scientific literature on agricultural sustainability assessment methodologies using R
+Text mining for scientific literature analysis on agricultural sustainability assessment methodologies using R
